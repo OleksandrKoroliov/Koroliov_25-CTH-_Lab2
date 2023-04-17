@@ -52,6 +52,7 @@
     padding: 0px 60px 0 60px;
     display: flex;
     align-items: center;
+    justify-content: space-between;
 }
 .title_child, .title_description {
     margin-bottom: 30px;
@@ -59,9 +60,13 @@
 .title_text {
     color: white;
 }
+.title_body {
+    margin: 0;
+}
 .circle {
     width: 380px;
     height: 380px;
+    margin: 0;
     background-image: url(../img/restaurant2.png);
     border-radius: 50%;
     border: 30px solid;
