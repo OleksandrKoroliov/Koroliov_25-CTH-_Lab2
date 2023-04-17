@@ -78,6 +78,7 @@
 .container_action{
     display: flex;
     align-items: center;
+    margin: 0;
     height: 35px;
     width: 170px;
     background-color: rgb(118, 195, 143);
